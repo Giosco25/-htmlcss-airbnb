@@ -15,6 +15,7 @@
     background-image: url(https://images.unsplash.com/photo-1513581166391-887a96ddeafd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80);
     background-size: cover;
     background-repeat: no-repeat;
+    opacity: 0.8;
 
 }
 
@@ -27,6 +28,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    opacity: 0.7;
 
 }
 .tokyo{
@@ -38,6 +40,7 @@
     background-image: url(https://wallpaperaccess.com/full/19066.jpg);
     background-size: cover;
     background-repeat: no repeat;
+    opacity: 0.7;
 }
 p{
     color: white;
