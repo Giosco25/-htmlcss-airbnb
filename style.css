@@ -3,10 +3,9 @@
  padding:0;
  box-sizing: border-box;
 }
-.città {
+.citta {
     width:800px;
     background-color: black;
-    height: 800px;
     margin:auto;
 }
 .milano{
@@ -23,19 +22,27 @@
     width:250px;
     height: 250px;
     background-color: white;
-    margin-left: 350px;
+    margin-right: 150%;
     background-image: url(https://img4.goodfon.com/wallpaper/nbig/7/fb/ispaniia-gorod-madrid-vecher-ulitsy-ogni.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-
+    background-position: center;
 
 }
 .tokyo{
     width:250px;
     height: 250px;
     background-color: yellow;
-    margin-bottom: 350px;
+    margin-top: 0px;
+    margin-bottom: 50px;
     background-image: url(https://wallpaperaccess.com/full/19066.jpg);
     background-size: cover;
     background-repeat: no repeat;
+}
+p{
+    color: white;
+    position: relative;
+    top: 50%;
+    text-align: center;
+
 }
