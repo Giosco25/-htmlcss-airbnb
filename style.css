@@ -1,0 +1,30 @@
+*{
+ margin:0;
+ padding:0;
+ box-sizing: border-box;
+}
+.città {
+    width:800px;
+    background-color: black;
+    height: 800px;
+    margin:auto;
+}
+.milano{
+    width:250px;
+    height:250px;
+    background-color: red;
+}
+
+.madrid{
+    width:250px;
+    height: 250px;
+    background-color: white;
+    margin-left: 350px;
+
+}
+.tokyo{
+    width:250px;
+    height: 250px;
+    background-color: yellow;
+    
+}
